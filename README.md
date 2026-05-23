@@ -2,7 +2,7 @@
 A ML classifier that identifies whether Reddit comments are written by bots or humans, built using Python and scikit-learn.
 
 ## Why I Built It
-I was exploring the "Dead Internet Theory" — the idea that a significant portion of internet traffic is automated bots rather than real users. This is relevant to how companies like Cloudflare detect and filter bot traffic at scale.
+I was exploring the "Dead Internet Theory". the idea that a significant portion of internet traffic is automated bots rather than real users. This is relevant to how companies like Cloudflare detect and filter bot traffic at scale.
 
 ## How It Works
 The model uses a Random Forest classifier trained on behavioral features:
