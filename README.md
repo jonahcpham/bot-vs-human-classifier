@@ -13,7 +13,7 @@ The model uses a Random Forest classifier trained on behavioral features:
 - Average word length
 - Whether the comment contains links
 
-I chose these features the same way I'd select factors in a Statistical DOE — based on which variables are most likely to drive the outcome. Feature importance analysis confirmed which signals matter most.
+I chose these features the same way I'd select factors in a Statistical DOE. Based on which variables are most likely to drive the outcome to find feature importance analysis confirmed which signals matter most.
 
 ## Results
 - 500 Reddit comments (282 human, 218 bot)
